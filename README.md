@@ -9,4 +9,4 @@ A IDE utilizada para executar o projeto foi a VisualStudio 2019 e foi escrito na
 #### Outras informações
 
 De acordo com o ID 4 do arquivo, deduzi que todos os valores estão na classe dos milhões. Então eu alterei o arquivo colocando todos no mesmo formato, pois o programa não reconhecia os valores no formato certo.
-Não encontrei outra forma de resolver o problema.
+Eu não consegui encontrar outra forma de resolver o problema.
